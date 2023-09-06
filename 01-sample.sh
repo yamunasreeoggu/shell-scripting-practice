@@ -1,2 +1,4 @@
 ls
-dnf install git -y
+dnf list installed
+dnf list available
+
