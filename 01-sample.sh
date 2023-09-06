@@ -1,2 +1,2 @@
 ls
-dnf isntall git -y
+dnf install git -y
